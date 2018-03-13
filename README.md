@@ -42,3 +42,8 @@ Omit...
 
 `VTKdemo2.cpp` is the second edition of this project. I introduced DCMTK library which can process multi-series study and compressed dicom images. `myDicomImageReader.cpp/.h` is the core code to read compressed or multi-series dicom images.
 
+`install.bat` is a processing batch, used to install VTK_demo.exe to system register table. After installation, you can open `.mhd` file according to double click and open `.dcm` folder with the item `Open with CTViewer` in context menu.
+
+## Display 
+
+![image display](./image/image.png)
