@@ -21,6 +21,7 @@ A basic medical image (DICOM) viewer based on VTK and DCMTK library
 ### Step 3: Compile Project
 
 **DEBUG**
+
 | Setting | Items |
 |---------|-------|
 |`VC++ Directories->Including Directories(包含目录)`| F:\Program Files (x86)\VTK_DEBUG\include\vtk-8.0 <br> F:\Program Files (x86)\DCMTK\include\|
