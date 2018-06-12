@@ -1,5 +1,5 @@
-# DicomViewer
-A basic medical image (DICOM) viewer based on VTK and DCMTK library
+# MhdViewer
+A basic medical image (mhd) viewer based on VTK and DCMTK library
 
 
 ## Configuration
